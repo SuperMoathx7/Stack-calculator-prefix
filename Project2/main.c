@@ -2,9 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-//Moath Wajeeh AbdAlbaqi
-//1210125
-//sec 1
 
 #define null NULL
 #define memory (lptr)(malloc(sizeof(struct linkednode)))
