@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-
+//implemented by:  Moath AbdAlbaqi
 #define null NULL
 #define memory (lptr)(malloc(sizeof(struct linkednode)))
 #define submemory (subptr)(malloc(sizeof(struct subnode)))
